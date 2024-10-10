@@ -2,7 +2,7 @@
 👀 I’m interested in development of scalable and high-performance software applications, cloud technologies, and software methodologies.
 🌱 I’m currently learning Flutter and working on React projects, particularly focused on selection using APIs.
 💞️ I’m looking to collaborate on innovative software projects, especially those related to cloud infrastructure or web development.
-📫 Como me encontra:www.linkedin.com/in/stella-maria-rocha-de-oliveira-2024x
+📫  How to reach me: linkedin.com/in/stella-maria-rocha-de-oliveira-2024x
 ⚡ Fun fact: I’m passionate about technological innovation.
 <!---
 StellaMRocha/StellaMRocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
